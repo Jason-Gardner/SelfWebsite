@@ -65,6 +65,7 @@ body {
     background-position: center;
     background-size: auto;
     background-attachment: fixed;
+    padding-top: 70px;
 }
 .footer {
   position: absolute;
@@ -78,3 +79,10 @@ body {
     display: inline-block;
     padding: 20px;
 }
+
+.text-center img {
+    border-radius: 50%;
+}
+
+
+
